@@ -138,6 +138,8 @@ font-family:  'Roboto', sans-serif;
 }
 .intro p{
     margin: 12px;
+    font-size:10px;
+    
 }
 .skill{
     width: 350px;
